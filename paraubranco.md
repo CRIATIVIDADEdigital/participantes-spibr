@@ -1,7 +1,7 @@
 ---
 layout: participantes
 nome: Parau Branco
-atividade: APRENDER.digital
+atividade: CRIATIVIDADE.digital
 empresa: 
 foto: paraubranco.jpg
 facebook: https://www.facebook.com/ACriatividadeDigital/
