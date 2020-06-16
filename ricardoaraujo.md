@@ -18,4 +18,9 @@ conteudos:
         largura: 582
         altura: 1035
         id: CBBM5DUjecK
+      - tipo: instagram
+        descricao: Abrindo a caixa
+        largura: 582
+        altura: 1035
+        id: CBgupI4jKsd
 ---
