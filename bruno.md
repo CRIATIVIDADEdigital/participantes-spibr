@@ -6,7 +6,7 @@ empresa: Colégio Suzano
 foto: bruno.jpg
 facebook: https://www.facebook.com/
 linkedin: https://www.linkedin.com/
-instagram: bruno
+instagram: https://www.instagram.com/profbrunocs/
 site: www.site.com.br
 cidade: Cidade
 bio: Coordenador de Tecnologia Educacional, Professor apaixonado de Robótica Educacional e Tecnologia Cloud. Lego Influencer Brasil no programa Spike Prime Brasil.
