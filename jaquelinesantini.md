@@ -3,7 +3,7 @@ layout: participantes
 nome: Jaqueline Santini
 atividade: CRIATIVIDADE.digital
 empresa: 
-foto: paraubranco.jpg
+foto: jaquelinesantini.jpg
 facebook: https://www.facebook.com/jaquetms
 instagram: jaqueline_santini
 site: https://lasalle.edu.br/carmo
