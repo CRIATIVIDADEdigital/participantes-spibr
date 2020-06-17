@@ -3,7 +3,7 @@ layout: participantes
 nome: Thiago Ferreira
 atividade: Professor Matemática e Robótica
 empresa: SESI - ES
-foto: tiagoferreira.jpg
+foto: thiagoferreira.jpg
 facebook: https://www.facebook.com/thiago.ferreiradasilva.92167
 instagram: matemathiago83
 cidade: Vitória
