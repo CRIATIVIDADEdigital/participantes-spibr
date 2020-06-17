@@ -11,6 +11,13 @@ site: https://jandirasaiba.blogspot.com/
 cidade: Concórdia
 bio: Em construção 😍
 conteudos:
+  - topico: Conhecendo o SPIKE Prime
+    itens: 
+      - tipo: instagram
+        descricao: Abrindo a caixa do Spike. Durante a semana mais informações, falando um pouco mais detalhado de cada peça. 😍😍😍😍😍.
+        largura: 902
+        altura: 1065
+        id: CA5xdSsj5Il
   - topico: Brincando com o SPIKE Prime
     itens: 
       - tipo: instagram
