@@ -1,10 +1,9 @@
 ---
 layout: participantes
 nome: Maria Cecilia
-atividade: Vice Diretora Tecnologia Educacional
-empresa: Rede de Ensino Caminho do Saber
+atividade: Professora de Robótica
+empresa: Secretária de Educação de Lucas do Rio Verde
 foto: mariacecilia.jpg
-linkedin: https://www.linkedin.com/in/alexandra-valença-colvara-9a1a6b73
 facebook: https://www.facebook.com/cecilia.lyra.5
 instagram: mcecilira
 cidade: Lucas do Rio Verde
@@ -13,23 +12,9 @@ bio: Professora pós graduação em Robótica Educacional e Novas Tecnologias.
 conteudos:
   - topico: Conhecendo o kit
     itens: 
-      - tipo: youtube
-        descricao: Unboxing Spike Prime
-        largura: 560
-        altura: 315
-        id: o6vaLnUYUvc
-  - topico: Primeiro e Segundo Encontro
-    itens: 
-      - tipo: youtube
-        descricao: Estou aqui para contar novidades sobre a formação do SPIKE Prime. Confira no vídeo abaixo.
-        largura: 560
-        altura: 315
-        id: eHQSwGkd1P4
-  - topico: Terceiro e Quarto Encontro
-    itens: 
-      - tipo: youtube
-        descricao: No terceiro encontro nós vimos um pouco sobre os sensores de distância e de cor. No quarto encontro vimos sobre o giroscópio e a prototipagem virtual. Confira no vídeo abaixo.
-        largura: 560
-        altura: 315
-        id: GOgh1B5LhtE
+      - tipo: instagram
+        descricao: Oiii pessoal, chegou a minha caixa do SPIKE Prime. Veja no vídeo abaixo!
+        largura: 582
+        altura: 1035
+        id: CBCI0lhHNFG
 ---
