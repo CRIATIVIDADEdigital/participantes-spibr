@@ -17,8 +17,8 @@
     ---
     layout: participantes
     nome: Parau Branco
-    atividade: CRIATIVIDADE.digital
-    empresa: 
+    atividade: Professor
+    empresa: CRIATIVIDADE.digital
     foto: paraubranco.jpg
     facebook: https://www.facebook.com/ACriatividadeDigital/
     linkedin: https://www.linkedin.com/in/parau/
