@@ -38,11 +38,11 @@ O arquivo que gera o conteúdo da página tem duas partes. Na primeira você col
 | - topico: | Nome do tópico de conteúdo. Na página é o texto que aparece com fonte maior e na cor verde. |
 |   itens: | Itens de conteúdo que farão parte deste tópico. Não precisa preencher nada nesta linha. |
 |     - tipo: | Tipo de conteúdo. Pode ser **link**, **youtube** ou **instagram**. |
-|       descricao: Texto que vai ser apresentado antes do conteúdo. Não usar quebra de linha, ou seja, todo o texto no mesmo parágrafo. Se precisar quebrar a linha use a marca a tag HTML **<br>**.|
+|       descricao: | Texto que vai ser apresentado antes do conteúdo. Não usar quebra de linha, ou seja, todo o texto no mesmo parágrafo. Se precisar quebrar a linha use a marca a tag HTML **<br>**.|
 |       link: | Endereço (URL) para acesso ao conteúdo. Usar este campo apenas quando o tipo de conteúdo for link. |
 |       largura: | Campo só para os conteúdos do tipo **youtube** e **instagram**. Indica a largura do vídeo publicado. |
 |       altura: | Mesmo do **largura** mas com a altura do vídeo publicado. |
-|       id: | Código do vídeo publicado no **youtube** ou **instagram**. Você encontra ele no link de compartilhamento. Veja os exemplos (negrito): https://youtu.be/**OrpdJCSuXrU** ou https://www.instagram.com/tv/**CBbLNEYACQt**/.
+|       id: | Código do vídeo publicado no **youtube** ou **instagram**. Você encontra ele no link de compartilhamento. Veja os exemplos (negrito): https://youtu.be/**OrpdJCSuXrU** ou https://www.instagram.com/tv/**CBbLNEYACQt**/. |
 
 ### Exemplo de um arquivo
     conteudos:
