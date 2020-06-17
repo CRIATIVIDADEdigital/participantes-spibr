@@ -1,6 +1,6 @@
 O arquivo que gera o conteúdo da página tem duas partes. Na primeira você coloca os seus dados e links de contato. Na segunda parte os conteúdos publicados. Até o momento estamos aceitando conteúdos no formato de link (para uma outra página web), Instagram e Youtube. Quando der um tempinho vamos colocar Facebook também.
 
-## Primeira parte 
+# Primeira parte 
 ### Formato do arquivo
 | Campo | Descrição |
 |--- | --- |
@@ -31,7 +31,7 @@ O arquivo que gera o conteúdo da página tem duas partes. Na primeira você col
     bio: Parahuari é apaixonado pela área de educação. Ele tem mais de 20 anos de experiência no desenvolvimento de soluções tecnológicas voltadas a aprendizagem. Ao longo desses anos, Parahuari teve a oportunidade de desempenhar diferentes papéis como professor, programador, autor, designer instrucional, gerente de projetos e pesquisador. Parau, como também é chamado, trabalhou no desenvolvimento de diferentes tipos de soluções educativas como portais educacionais, livros didáticos digitais, simulações, sistemas adaptativos e jogos educativos. Agora ele está envolvido na pesquisa e desenvolvimento de soluções que incentivam a leitura e promovem a criatividade digital. Parahuari acredita que melhorar a educação é também melhorar o mundo.
     ---
 
-## Segunda parte
+# Segunda parte
 ### Formato do arquivo
 | Campo | Descrição |
 | --- | --- |
