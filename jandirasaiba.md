@@ -21,7 +21,7 @@ conteudos:
 - topico: Meteorologista
     itens: 
       - tipo: instagram
-        descricao: Semana 3 
+        descricao: Semana 3":" 
         largura: 902
         altura: 1065
         id: CBdgh9DD74i
