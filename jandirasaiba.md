@@ -21,11 +21,11 @@ conteudos:
 - topico: Meteorologista
     itens: 
       - tipo: instagram
-        descricao: Semana 3 - Vamos colocar mão na massa. Meteorologista para iniciar a semana de Construção.
+        descricao: Semana 3 Vamos colocar mão na massa. Meteorologista para iniciar a semana de Construção.
         largura: 902
         altura: 1065
         id: CBdgh9DD74i
-- tipo: instagram
+      - tipo: instagram
         descricao: O Spike Prime reúne novos formatos de blocos Lego, hardware simples de utilizar e linguagem de programação intuitiva do tipo arraste e solte baseada em Scratch. Formado por um Hub programável, sensores e motores, altamente precisos que, juntamente com uma grande variedade de elementos de construção coloridos da Lego Education, permite que os alunos projetem e construam robôs divertidos, dispositivos dinâmicos e outros modelos interativos. Vamos brincar?
         largura: 902
         altura: 1065
