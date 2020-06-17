@@ -3,7 +3,7 @@ layout: participantes
 nome: Jorge Jardim Jr.
 atividade: Professor e Coordenador de Tecnologia
 empresa: Colégio Sinodal
-foto: jorgejardim.jpg
+foto: jorgejardimjr.jpg
 facebook: https://www.facebook.com/jardimjr/
 linkedin: https://www.linkedin.com/in/jardimjr/
 instagram: jardimjr
