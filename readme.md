@@ -43,7 +43,7 @@ O arquivo que gera o conteúdo da página tem duas partes. Na primeira você col
 |       link: | Endereço (URL) para acesso ao conteúdo. Usar este campo apenas quando o tipo de conteúdo for link. |
 |       largura: | Campo só para os conteúdos do tipo **youtube** e **instagram**. Indica a largura do vídeo publicado. |
 |       altura: | Mesmo do **largura** mas com a altura do vídeo publicado. |
-|       id: | Código do vídeo publicado no **youtube** ou **instagram**. Você encontra ele no link de compartilhamento. Veja os exemplos (negrito): youtu.be/**OrpdJCSuXrU** ou www.instagram.com/tv/**CBbLNEYACQt**/. |
+|       id: | Código do vídeo publicado no **youtube** ou **instagram**. Você encontra ele no link de compartilhamento. Veja os exemplos (negrito): youtu.be/**OrpdJCSuXrU** ou instagram.com/tv/**CBbLNEYACQt**/. |
 
 ### Exemplo de um arquivo
     conteudos:
