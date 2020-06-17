@@ -1,7 +1,7 @@
 ---
 layout: participantes
 nome: Jaqueline Santini
-atividade: Profe Tecnologia Educaional
+atividade: Professora Tecnologia Educaional
 empresa: La Salle Carmo
 foto: jaquelinesantini.jpg
 facebook: https://www.facebook.com/jaquetms
