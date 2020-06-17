@@ -21,7 +21,7 @@ conteudos:
 - topico: Meteorologista
     itens: 
       - tipo: instagram
-        descricao: Semana 3%3A Vamos colocar mão na massa%3A Meteorologista para iniciar a semana de Construção. Já que o SPIKE veio para acelerar ainda mais a aprendizagem STEM ( integração das disciplinas de ciências, matemática, artes, tecnologias e engenharias). Segue as algumas informações sobre a montagem escolhida. <br>Meteorologista %3A o profissional que estuda a atmosfera seus fenômenos e interação. Qual é a função de um meteorologista? O meteorologista tem as atividades relacionadas às ciências atmosféricas, ou seja, estuda e pesquisa sobre as áreas meteorológicas e climatológicas; está diretamente ligado as previsões do clima e tempo; para todo o território nacional, é responsável por monitorar as condições meteorológicas; suas pesquisas..<br>A faixa salarial do Meteorologista CBO 2133-15 fica entre R$ 4.384,00 salário mediana da pesquisa e o teto salarial de R$ 11.353,07, sendo que R$ 4.735,93 é a média do piso salarial 2020 de acordos, 
+        descricao: Semana 3%3A 
         largura: 902
         altura: 1065
         id: CBdgh9DD74i
