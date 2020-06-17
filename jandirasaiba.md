@@ -14,14 +14,14 @@ conteudos:
   - topico: Conhecendo o SPIKE Prime
     itens: 
       - tipo: instagram
-        descricao: Abrindo&#58; a caixa do Spike. Durante a semana mais informações, falando um pouco mais detalhado de cada peça. 😍😍😍😍😍.
+        descricao: Abrindo a caixa do Spike. Durante a semana mais informações, falando um pouco mais detalhado de cada peça. 😍😍😍😍😍.
         largura: 902
         altura: 1065
         id: CA5xdSsj5Il
 - topico: Meteorologista
     itens: 
       - tipo: instagram
-        descricao: Semana 3 
+        descricao: "Semana 3:" 
         largura: 902
         altura: 1065
         id: CBdgh9DD74i
