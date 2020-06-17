@@ -27,13 +27,13 @@ conteudos:
         largura: 723
         altura: 1016
         id: CBbhG32F9ND
-  - topico: Breakdancing
+  - topico: Break Dance
     itens: 
       - tipo: instagram
         descricao: Adaptando da proposta original da LEGO. Veja como ficou...
         largura: 722
         altura: 986
-        id: 1usVFMa7
+        id: CA-1usVFMa7
       - tipo: instagram
         descricao: Ser professsor é compartilhar! Transformando o movimento dos braços de Pitch para Yaw. Detalhes da adaptação neste vídeo. 🙂😉 *Não falei no vídeo que o corpo do robô faz o movimento Roll.
         largura: 579
