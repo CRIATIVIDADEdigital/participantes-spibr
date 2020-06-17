@@ -34,8 +34,8 @@ O arquivo que gera o conteúdo da página tem duas partes. Na primeira você col
 ## Segunda parte
 ### Formato do arquivo
 | Campo | Descrição |
+| --- | --- |
 | conteudos: | Indicação de que a seguir serão listados os conteúdos. Não precisa preencher nada nesta linha. |
-
 | - topico: | Nome do tópico de conteúdo. Na página é o texto que aparece com fonte maior e na cor verde. |
 |   itens: | Itens de conteúdo que farão parte deste tópico. Não precisa preencher nada nesta linha. |
 |     - tipo: | Tipo de conteúdo. Pode ser **link**, **youtube** ou **instagram**. |
