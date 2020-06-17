@@ -27,7 +27,7 @@ conteudos:
         largura: 723
         altura: 1016
         id: CBbhG32F9ND
-- topico: Breakdancing
+  - topico: Breakdancing
     itens: 
       - tipo: instagram
         descricao: Adaptando da proposta original da LEGO. Veja como ficou...
@@ -39,5 +39,4 @@ conteudos:
         largura: 579
         altura: 988
         id: CBGyK3Sl2De
-
 ---
