@@ -32,7 +32,7 @@ conteudos:
         largura: 900
         altura: 1035
         id: CA84TmnJy4o
-  - topico: Segunda semana de formação (&#43;2 encontros)
+  - topico: Segunda semana de formação (+2 encontros)
     itens: 
       - tipo: instagram
         descricao: Na segunda semana conhecendo as características do sensores de distância, de cor e o sensor de giroscópio que está integrado no Hub, também falamos de prototipagem digital com o software studio.
@@ -44,7 +44,7 @@ conteudos:
         largura: 900
         altura: 1035
         id: CBMbCrHDyCN
-     - tipo: instagram
+      - tipo: instagram
         descricao: Exemplo com a Base Motriz utilizando sensor de cor e sensor giroscópio para determinar uma rotação de 90 graus. 
         largura: 900
         altura: 1035
