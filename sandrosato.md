@@ -4,10 +4,10 @@ nome: Sandro Shoiti Sato
 atividade: Orientador de Informática
 empresa: Secretaria Municipal de Educação de Mogi das Cruzes-SP
 foto: sandrosato.jpg
-facebook: www.facebook.com/sandro.shoiti/
+facebook: https://www.facebook.com/sandro.shoiti/
 linkedin: 
 instagram: sandro.shoiti
-site: https://portal.sme-mogidascruzes.sp.gov.br/user
+site: portal.sme-mogidascruzes.sp.gov.br/user
 cidade: Mogi das Cruzes/SP
 bio: Sou formado em Engenharia da Computação. Atualmente trabalho como Orientador de Informática na Secretaria Municipal de Educação de Mogi das Cruzes, onde atuo desde 2015 com o tema de Robótica Educacional. Tenho duas filhas, a Isabela de 8 anos e a Letícia de 2 anos. Já trabalhei como professor em diversas disciplinas dos cursos técnicos das ETEC das cidades de Mogi das Cruzes, Suzano e Ferraz de Vasconcelos. Antes de atuar na Educação trabalhava em projetos de pesquisa e engenharia na área de engenharia eletrônica e computação para o segmento espacial. 
 conteudos:
@@ -32,7 +32,6 @@ conteudos:
         largura: 900
         altura: 1035
         id: CA84TmnJy4o
-
   - topico: Segunda semana de formação (+2 encontros)
     itens: 
       - tipo: instagram
