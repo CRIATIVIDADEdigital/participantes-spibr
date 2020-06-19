@@ -4,6 +4,7 @@ nome: Fernando da Silva Barbosa
 atividade: Professor de Robótica
 empresa: SESI GOIÁS 
 foto: fernandosilvabarbosa.jpg
+facebook: https://www.facebook.com/fernandox01
 instagram: ferandox01
 cidade: Goiânia
 bio: É um apaixonado por robótica e seus torneios, ama o que faz e torce pro Goiás.
