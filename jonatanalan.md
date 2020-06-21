@@ -13,5 +13,6 @@ conteudos:
         descricao: Muito legal este modelo "SwirlBot" do Dimitri Dekyvere.
         largura: 560
         altura: 315
+        tag: [inspirar]
         id: dbADsow2jto
 ---
