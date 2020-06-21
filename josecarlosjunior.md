@@ -42,7 +42,7 @@ conteudos:
         id: CBGyK3Sl2De
   - topico: Um modelo para inspirar!!!
     itens: 
-      - tipo: Youtube
+      - tipo: youtube
         descricao: Self Balancing LEGO SPIKE Prime Model by Creator Academy Australia
         largura: 590
         altura: 315
