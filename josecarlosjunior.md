@@ -14,6 +14,7 @@ conteudos:
         descricao: Conheça o kit SPIKE Prime
         largura: 582
         altura: 1035
+        tag: [unboxing]
         id: CA5W57AFlae
   - topico: Explorando
     itens: 
@@ -39,4 +40,12 @@ conteudos:
         largura: 579
         altura: 988
         id: CBGyK3Sl2De
+  - topico: Um modelo para inspirar!!!
+    itens: 
+      - tipo: Youtube
+        descricao: Self Balancing LEGO SPIKE Prime Model by Creator Academy Australia
+        largura: 590
+        altura: 315
+        tag: [inspirar] 
+        id: MCVW2Uqanlw
 ---
