@@ -13,11 +13,11 @@ conteudos:
   - topico: Teste com o sensor de cor
     itens: 
       - tipo: facebook
-        descricao: Luz, câmera e ação!<br>Teste com o sensor de cor utilizando o robô criado pelo Heitor, competidor de FLL.<br>O sensor tem respostas bem rápidas, mesmo com motores em velocidade 100%.<br>Veja seguidor de linha e teste de eficiência de resposta do sensor × velocidade alta dos motores.
+        descricao: Luz, câmera e ação!<br>Teste com o sensor de cor utilizando o robô criado pelo Heitor, competidor de FLL.<br>O sensor tem respostas bem rápidas, mesmo com motores em velocidade 100%.<br>No vídeo você pode observar o resultado do teste de eficiência de resposta do sensor × velocidade alta dos motores.
         tag: [cor]
         link: https://www.facebook.com/100002540958988/videos/pcb.3079054492189219/3079052868856048/
       - tipo: facebook
-        descricao: Teste com o sensor de cor utilizando o robô criado pelo Heitor, competidor de FLL.<br>O sensor tem respostas bem rápidas, mesmo com motores em velocidade 100%.<br>Veja seguidor de linha e teste de eficiência de resposta do sensor × velocidade alta dos motores.
+        descricao: Veja o teste do sensor de cor com o robô criado pelo Heitor e o programa seguidor de linha.
         tag: [cor]
         link: https://www.facebook.com/100002540958988/videos/pcb.3079054492189219/3079053648855970/?type=3&theater
       - tipo: facebook
