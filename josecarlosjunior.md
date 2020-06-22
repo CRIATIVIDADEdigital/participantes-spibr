@@ -27,6 +27,7 @@ conteudos:
         descricao: Explorando o kit! Corrida com celular utilizando Lego como controle. Kit Spike Prime Education 🤓 
         largura: 723
         altura: 1016
+        tag: [inspirar]
         id: CBbhG32F9ND
   - topico: Break Dance
     itens: 

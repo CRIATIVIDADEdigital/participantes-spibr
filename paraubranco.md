@@ -34,5 +34,6 @@ conteudos:
         descricao: Aproveitando o tópico giroscópio trabalhado pelos <i>influencers</i> experimentei programar um <i>self balancing robot</i>. Experimentei com o Hub em duas posições. E, no vídeo, transformando a brincadeira em um grande circo. 😜
         largura: 560
         altura: 315
+        tag: [inspirar]
         id: GvrpnCbgDfo
 ---
