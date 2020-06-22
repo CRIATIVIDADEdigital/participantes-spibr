@@ -14,6 +14,7 @@ conteudos:
         descricao: Veja como foi a experiência de abrir o kit LEGO SPIKE Prime pela primeira vez.
         largura: 560
         altura: 315
+        tag: [unboxing]
         id: ZJmkXhZmx-s
   - topico: Meu primeiro robô
     itens: 

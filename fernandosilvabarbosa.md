@@ -15,5 +15,6 @@ conteudos:
         descricao: Mostrando tudo o que vem dentro de uma maleta do Spike Prime. Também algumas diferenças da maleta do Spike em relação ao EV3.
         largura: 560
         altura: 315
+        tag: [unboxing]
         id: 9jICXdUCUms
 ---

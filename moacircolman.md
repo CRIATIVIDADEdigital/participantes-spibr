@@ -15,5 +15,6 @@ conteudos:
         descricao: Pessoal segue um breve vídeo do unboxing do kit Lego Spike Prime.
         largura: 560
         altura: 315
+        tag: [unboxing]
         id: uQ7EK86xzxA
 ---
