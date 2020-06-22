@@ -6,6 +6,7 @@ empresa: ControlBot
 foto: tiagocauassa.jpg
 facebook: Facebook.com/tiagocauassa
 instagram: tiagocauassa
+linkedin: http://linkedin.com/in/tiago-cauassa
 cidade: Manaus
 bio: Professor de Robótica Educacional na ControlBot. Licenciado em Informática pela UEA e Tecnologia da Informação pela Kwantlen University. Amante das tecnologias educacionais Tiago Cauassa brinca com LEGO® desde os 4 anos de idade.
 conteudos:
