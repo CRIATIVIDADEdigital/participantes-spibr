@@ -1,7 +1,7 @@
 ---
 layout: participantes
 nome: Débora Lana
-atividade: Diretora da DHEL
+atividade: Diretora
 empresa: Robótica DHEL
 foto: foto.png
 linkedin: https://www.linkedin.com/in/d%C3%A9bora-oliveira-lana-8329a467/
