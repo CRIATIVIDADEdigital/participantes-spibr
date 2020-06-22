@@ -24,7 +24,7 @@ conteudos:
         descricao: Testes com o sensor de cor&#58; para cada cor uma ação diferente.<br> Esses desafios são adorados pela meninada de 7 e 8 anos. Eles vibram ao ver "a cor mandando no robô!". Aprendem brincando.
         tag: [cor]
         link: https://www.facebook.com/100002540958988/videos/3056624574432211/
-  - topico: Segue linh PID - Heitor
+  - topico: Segue linha PID - Heitor
     itens: 
       - tipo: youtube
         descricao: Hoje testei um segue linha que desenvolvi para o ev3 no SPIKE Prime! Vem comigo que eu te mostro mais !!
