@@ -1,7 +1,7 @@
 ---
 layout: participantes
 nome: Caio Camargo
-atividade: Professora de Robótica
+atividade: Analista Técnico Educacional
 empresa: SESI
 foto: caiocamargo.jpg
 instagram: camargoprofessor
