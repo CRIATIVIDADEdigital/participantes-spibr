@@ -3,7 +3,7 @@ layout: participantes
 nome: Daniele Ortiz Hoffmann Bonicio
 atividade: Analista Técnico Educacional
 empresa: SESI
-foto: ortizhoffmann.jpg
+foto: danieleortiz.jpg
 facebook: https://www.facebook.com/daniele.ortiz.9
 instagram: daniele.ortiz.hoffmann 
 cidade: Ourinhos
