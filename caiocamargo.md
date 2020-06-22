@@ -7,7 +7,6 @@ foto: foto.png
 instagram: camargoprofessor
 cidade: São Paulo
 bio: Professor de matemática e apaixonado por educação, tecnologia e robótica, foi técnico de equipes de robótica OBR (Olimpíada Brasileira de Robótica) e FLL (FIRST Lego League) até 2012, em 2019, após sete anos afastado de equipes, teve sua primeira experiência como mentor de equipe FRC (FIRST Robotics Competition). Desde 2013, atua como formador de professor para tecnologias de apoio à aprendizagem no SESI e juiz em torneios de robótica, avaliando diversas equipes em etapas regionais, estaduais, nacionais e internacionais da FLL, WRO (World Robot Olympiad) e OBR, incluindo o World Festival Houston FLL e as finais mundiais da WRO.
----
 conteudos:
   - topico: Unboxing do Spike Prime da LEGO® Education
     itens: 
@@ -36,3 +35,4 @@ conteudos:
         largura: 560
         altura: 315
         id: wHgglbjEXyA
+---
