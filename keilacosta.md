@@ -3,7 +3,7 @@ layout: participantes
 nome: Keila Costa
 atividade: Professora de Robótica
 empresa: Centro de Ciência, Tecnologia e Inovação (CCTI)
-foto: keilacosta.png
+foto: keilacosta.jpg
 linkedin: https://www.linkedin.com/in/keila-costa-701a80135/ 
 facebook: https://www.facebook.com/keilacostaoficial
 instagram: keilacosta.rr
