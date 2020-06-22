@@ -56,4 +56,11 @@ conteudos:
         largura: 900
         altura: 1035
         id: CBbGcBADLk0
+  - topico: 3ª semana
+    itens: 
+      - tipo: instagram
+        descricao: Chegamos a 3ª semana do programa SPIKE Prime Influencers - Brasil! Hora de colocar a mão na massa, ou melhor nas peças e na programação! O desafio desta semana foi escolher uma montagem dentro do programa SPIKE.
+        largura: 900
+        altura: 1035
+        id: CBo7_SCpWTg        
 ---
