@@ -17,6 +17,7 @@ conteudos:
         descricao: Unboxing Spike Prime
         largura: 560
         altura: 315
+        tag: [unboxing]
         id: o6vaLnUYUvc
   - topico: Primeiro e Segundo Encontro
     itens: 
