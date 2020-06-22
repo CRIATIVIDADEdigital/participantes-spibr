@@ -4,7 +4,7 @@ nome: Tiago Cauassa
 atividade: Professor de Robótica
 empresa: ControlBot
 foto: tiagocauassa.jpg
-facebook: Facebook.com/tiagocauassa
+facebook: https://www.facebook.com/tiagocauassa
 instagram: tiagocauassa
 linkedin: http://linkedin.com/in/tiago-cauassa
 cidade: Manaus
