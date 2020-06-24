@@ -14,7 +14,7 @@ conteudos:
     itens: 
       - tipo: instagram
         descricao: Meu primeiro programa :)
-        largura: 582
+        largura: 500
         altura: 1035
         id: CBhHOUUhMwT
   - topico: 1ª SEMANA UTILIZANDO MOTORES E SENSOR DE TOQUE
