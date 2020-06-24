@@ -17,4 +17,12 @@ conteudos:
         largura: 582
         altura: 1035
         id: CBhHOUUhMwT
+  - topico: 1ª SEMANA UTILIZANDO MOTORES E SENSOR DE TOQUE
+    itens: 
+      - tipo: youtube
+        descricao: O sensor de toque tem um sensibilidade incrível. Com um leve toque o contanto é detectado. Uma grande novidade do sensor de toque do SPIKE em relação ao sensor do EV3 é que, além das opções pressionado e não pressionado (solto) ele também mede a força da pressão. Os valores variam de 0 a 10 N.
+        largura: 560
+        altura: 315
+        id: 71jquLvLEng
+
 ---
