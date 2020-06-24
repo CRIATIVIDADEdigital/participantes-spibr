@@ -19,4 +19,12 @@ conteudos:
         altura: 1038
         tag: [unboxing]
         id: CBBbE2kg7A6
+  - topico: Semana 3 - Chegou o momento de colocar a mão na massa!
+    itens: 
+      - tipo: instagram
+        descricao: Essa semana escolhemos um projeto, dentro do programa do SPIKE™ Prime, para construir e programar.<br>Projeto escolhido&#58; Máquina CNC.<br>A montagem inicialmente pronta, apresenta alguns "defeitos" para estimular a criatividade e gerar novas ideias para o conserto da máquina, antes de fazê-la funcionar.
+        largura: 900
+        altura: 1038
+        tag: [unboxing]
+        id: CBrf4HmDe-l
 ---
