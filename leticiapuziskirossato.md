@@ -3,7 +3,7 @@ layout: participantes
 nome: Leticia Puziski Rossato 
 atividade: Professora de Robótica
 empresa: Colégio Bertoni
-foto: roseribeiro.jpg
+foto: leticiapuziskirossato.jpg
 linkedin: https://www.linkedin.com/in/leticia-rossato-72232b104/
 facebook: https://www.facebook.com/leti.rossato/
 instagram: puziski_let
