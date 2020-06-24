@@ -23,8 +23,8 @@ conteudos:
     itens: 
       - tipo: instagram
         descricao: Essa semana escolhemos um projeto, dentro do programa do SPIKE™ Prime, para construir e programar.<br>Projeto escolhido&#58; Máquina CNC.<br>A montagem inicialmente pronta, apresenta alguns "defeitos" para estimular a criatividade e gerar novas ideias para o conserto da máquina, antes de fazê-la funcionar.
-        largura: 900
-        altura: 1038
+        largura: 560
+        altura: 315
         tag: [unboxing]
         id: CBrf4HmDe-l
 ---
