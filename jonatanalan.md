@@ -18,4 +18,12 @@ conteudos:
         altura: 315
         tag: [inspirar]
         id: dbADsow2jto
+  - topico:  LEGO SPIKE Prime Simple Biped Walker
+    itens: 
+      - tipo: youtube
+        descricao: Mais uma criação do Yoshihito ISOGAWA
+        largura: 560
+        altura: 315
+        tag: [inspirar]
+        id: RdayVDZljEk
 ---
