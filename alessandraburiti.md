@@ -17,7 +17,7 @@ conteudos:
   - topico: Semana 2
     itens: 
       - tipo: facebook
-        descricao: Utilizar os sensores: Giroscópio, Cor e Distância. Programar o robô para identificar a cor vermelha e fazer o quadrado no sentido horário ao identificar cor azul, fazer o quadrado em sentido anti-horário utilizando o sensor giroscópio para realizar a rotação.
+        descricao: Utilizar os sensores	&#58; Giroscópio, Cor e Distância. Programar o robô para identificar a cor vermelha e fazer o quadrado no sentido horário ao identificar cor azul, fazer o quadrado em sentido anti-horário utilizando o sensor giroscópio para realizar a rotação.
         link: https://www.facebook.com/alessandra.buriti/videos/10222670138883111
   - topico: Semana 3
     itens: 
