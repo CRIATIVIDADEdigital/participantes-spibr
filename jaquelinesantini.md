@@ -16,5 +16,6 @@ conteudos:
         descricao: Unboxing do lançamento mundial da LEGO, o SPIKE Prime!!
         largura: 582
         altura: 1035
+        tag: [unboxing]
         id: CBbLNEYACQt
 ---

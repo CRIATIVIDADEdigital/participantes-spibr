@@ -7,9 +7,9 @@ foto: alexandravalenca.jpg
 linkedin: https://www.linkedin.com/in/alexandra-valença-colvara-9a1a6b73
 facebook: https://fb.com/alexandra.valencacolvara
 instagram: ale_colvara
-site: www.redecaminhodosaber.com.br/portal/
+site: www.redecaminhodosaber.com.br
 cidade: Caxias do Sul
-bio: Técnica da equipe de Robótica Tecnoway e Vice-diretora de Tecnologia Educacional da Rede de Ensino Caminho do Saber.
+bio: Graduada em Licenciatura em Computação na Universidade de Caxias do Sul – UCS, recebeu o prêmio de aluna destaque pela Sociedade Brasileira de Computação em 2009. Pós-graduada em Informática na Educação pela Pontifícia Universidade Católica do Rio Grande do Sul – PUC. Técnica da Equipe de Robótica Tecnoway desde 2010, atualmente Vice-diretora de Tecnologia Educacional na Rede de Ensino Caminho do Saber. Apaixonada por Tecnologia e Educação acredita que utilização de recursos diferenciados podem potencializar o processo de ensino. Sempre pensando na capacitação de docentes, proporciona diferentes formas para utilização de recursos tecnológicos em sala de aula, pois acredita que todos podem ter acesso a diversas tecnologias e inovar em sua prática didática.
 conteudos:
   - topico: Conhecendo o kit
     itens: 
@@ -17,6 +17,7 @@ conteudos:
         descricao: Unboxing Spike Prime
         largura: 560
         altura: 315
+        tag: [unboxing]
         id: o6vaLnUYUvc
   - topico: Primeiro e Segundo Encontro
     itens: 

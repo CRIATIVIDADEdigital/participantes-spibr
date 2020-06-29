@@ -16,5 +16,6 @@ conteudos:
         descricao: Oiii pessoal, chegou a minha caixa do SPIKE Prime. Veja no vídeo abaixo!
         largura: 582
         altura: 1035
+        tag: [unboxing]
         id: CBCI0lhHNFG
 ---
