@@ -5,8 +5,9 @@ atividade: Professora
 empresa: 
 foto: jandirasaiba.jpg
 facebook: https://www.facebook.com/jandira.saiba/
-youtube: https://www.youtube.com/channel/UCO3kdSn3NRd3rPbOBRKNohA 
+youtube: https://www.youtube.com/c/JANDIRASAIBA 
 instagram: jandira_nina
+tiktok: https://www.tiktok.com/@ninajandira
 site: https://jandirasaiba.blogspot.com/
 cidade: Concórdia
 bio: Em construção 😍

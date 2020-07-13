@@ -6,6 +6,7 @@ empresa:
 foto: paraubranco.jpg
 facebook: https://www.facebook.com/ACriatividadeDigital/
 linkedin: https://www.linkedin.com/in/parau/
+youtube: https://www.youtube.com/channel/UCVafFRLd64G_8R8FyV4ZH9A
 instagram: parau.branco
 site: criatividade.digital
 cidade: Curitiba

@@ -6,6 +6,7 @@ empresa:
 foto: moacircolman.jpg
 instagram: moacir.colman
 facebook: https://www.facebook.com/moacir.colman
+youtube: https://www.youtube.com/watch?v=B5BmkAI4cFQ
 cidade: Cidade
 bio: Em Construção ⚠️.
 conteudos:

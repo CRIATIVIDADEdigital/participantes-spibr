@@ -5,6 +5,8 @@ atividade: Professor de Tecnologia da Educação
 empresa: Colégio Visconde de Porto Seguro
 foto: josecarlosjunior.jpg
 instagram: jcsoaresjunior
+facebook: https://www.facebook.com/jcsoaresjr
+tiktok: https://vm.tiktok.com/JLV9rVw/
 cidade: São Paulo
 bio: José Carlos de Souza Soares (Junior) é formado em Pedagogia atua a 12 anos com tecnologia educacional em aulas de informática, robótica e lógica de programação, possui certificação internacional pela Lego Education dedicada ao desenvolvimento de metodologias de ensino focados em STEM, é atualmente professor de Tecnologia da Educação no Colégio Visconde de Porto Seguro.
 conteudos:
