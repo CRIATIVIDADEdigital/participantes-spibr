@@ -4,7 +4,7 @@ nome: Adriana
 atividade: 
 empresa: 
 foto: foto.png
-linkedin: https://www.linkedin.com/in/alexandra-valença-colvara-9a1a6b73
+linkedin: 
 facebook: https://www.facebook.com/adriana.binizanetti
 instagram: adrianabini
 site: 
