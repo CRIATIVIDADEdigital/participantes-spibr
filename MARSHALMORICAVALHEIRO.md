@@ -1,6 +1,6 @@
 ---
 layout: participantes
-nome: Adriana
+nome: Marshal Mori Cavalheiro
 atividade: 
 empresa: 
 foto: foto.png
