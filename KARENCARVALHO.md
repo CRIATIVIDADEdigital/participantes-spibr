@@ -3,7 +3,7 @@ layout: participantes
 nome: Karen Carvalho
 atividade: 
 empresa: 
-foto: foto.png
+foto: karen.jpeg
 linkedin: 
 instagram: tenapratica
 facebook: http://www.facebook.com/tenapratica
