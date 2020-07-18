@@ -9,6 +9,6 @@ instagram: tenapratica
 facebook: http://www.facebook.com/tenapratica
 youtube: http://youtube.com/tenapratica
 site: 
-cidade:Jaraguá do Sul/SC
+cidade: Jaraguá do Sul/SC
 bio: 
 ---
