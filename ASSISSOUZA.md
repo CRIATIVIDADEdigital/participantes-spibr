@@ -3,7 +3,7 @@ layout: participantes
 nome: Assis Souza
 atividade: 
 empresa: 
-foto: foto.png
+foto: assissouza.jpg
 linkedin: 
 instagram: assis_adsl
 facebook: https://www.facebook.com/assis039
